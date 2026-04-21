@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Bruno Rocha! 👋
 
-<!--
-**brunosantosdarocha/brunosantosdarocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Análise e Desenvolvimento de Sistemas**
 
-Here are some ideas to get you started:
+Me chamo Bruno Santos da Rocha e sou natural do ES. Concluí o ensino médio e, em seguida, um curso técnico em informática. Daí em diante, sempre atuei na área de TI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá. Sou apaixonado por tecnologia e compartilho meu conhecimento através da minha página aqui no GitHub, onde posto meus estudos e projetos atuais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://jsdelivr.net" width="40" title="Python" alt="Python" />&nbsp;
+  <img src="https://jsdelivr.net" width="40" title="Pandas" alt="Pandas" />&nbsp;
+  <img src="https://jsdelivr.net" width="40" title="SQLite" alt="SQLite" />&nbsp;
+  <img src="https://githubusercontent.com" width="40" title="Streamlit" alt="Streamlit" />&nbsp;
+  <img src="https://jsdelivr.net" width="40" title="C" alt="C" />&nbsp;
+  <img src="https://jsdelivr.net" width="40" title="SQL" alt="SQL" />&nbsp;
+  <img src="https://icons8.com" width="40" title="Excel" alt="Excel" />
+</p>
+
+<br/>
